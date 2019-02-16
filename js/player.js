@@ -26,8 +26,8 @@ class Musics {
     constructor() {
         this.songs = [{
                 id: 1,
-                title: 'Driving Home for Christmas',
-                singer: 'Campsite Dream',
+                title: '天空之城(八音盒家钢琴纯音乐)',
+                singer: '未知',
                 songUrl: './songs/Love.mp3',
                 imageUrl: './images/songs/c.jpg'
             }
